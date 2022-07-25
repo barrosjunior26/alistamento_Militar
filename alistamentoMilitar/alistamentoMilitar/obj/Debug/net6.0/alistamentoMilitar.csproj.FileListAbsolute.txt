@@ -1,0 +1,15 @@
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\bin\Debug\net6.0\alistamentoMilitar.exe
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\bin\Debug\net6.0\alistamentoMilitar.deps.json
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\bin\Debug\net6.0\alistamentoMilitar.runtimeconfig.json
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\bin\Debug\net6.0\alistamentoMilitar.dll
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\bin\Debug\net6.0\alistamentoMilitar.pdb
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\obj\Debug\net6.0\alistamentoMilitar.csproj.AssemblyReference.cache
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\obj\Debug\net6.0\alistamentoMilitar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\obj\Debug\net6.0\alistamentoMilitar.AssemblyInfoInputs.cache
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\obj\Debug\net6.0\alistamentoMilitar.AssemblyInfo.cs
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\obj\Debug\net6.0\alistamentoMilitar.csproj.CoreCompileInputs.cache
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\obj\Debug\net6.0\alistamentoMilitar.dll
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\obj\Debug\net6.0\refint\alistamentoMilitar.dll
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\obj\Debug\net6.0\alistamentoMilitar.pdb
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\obj\Debug\net6.0\alistamentoMilitar.genruntimeconfig.cache
+C:\Users\barro\workspace\Alistamento\alistamentoMilitar\alistamentoMilitar\obj\Debug\net6.0\ref\alistamentoMilitar.dll
